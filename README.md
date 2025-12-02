@@ -1,2 +1,1 @@
-# demo_cloud_orbit-
-Training Session
+- Abhijit Kasula
